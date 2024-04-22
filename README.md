@@ -1,4 +1,4 @@
-Independent Android Dev
-React Native
-Python
+Independent Android Dev \
+React Native \
+Python \
 Learning React and C++
